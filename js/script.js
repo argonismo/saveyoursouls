@@ -12,13 +12,13 @@ document.getElementById('id кнопки').addEventListener('click', function() 
     var url;
     switch (randomNum) {
         case 1:
-            url = 'первая ссылка';
+            url = 'page11.html';
             break;
         case 2:
-            url = 'вторая ссылка';
+            url = 'page12.html';
             break;
         case 3:
-            url = 'третья ссылка';
+            url = 'page13.html';
             break;
         default:
             break;
